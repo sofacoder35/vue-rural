@@ -9,7 +9,7 @@ import '@/utils/permission'
 import '@/utils/icons'
 import '@/utils/markdown'
 
-Vue.prototype.$qiniu='http://r6ikcsmmm.hn-bkt.clouddn.com/';
+Vue.prototype.$qiniu='http://cdn.sofacoder.top/';
 Vue.config.productionTip = false;
 
 

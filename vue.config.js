@@ -2,7 +2,7 @@ module.exports = {
   lintOnSave: false,
   //后端接口配置
   devServer:{
-    port:80,
+    port:8080,
     open:true,
     //设置代理
     proxy:{
